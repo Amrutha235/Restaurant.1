@@ -1,0 +1,8 @@
+
+
+RESTAURANT LISTING APP 
+---------------------------
+
+
+1. Create an application -npx create-react-app restaurant-listing-app
+2.cd
